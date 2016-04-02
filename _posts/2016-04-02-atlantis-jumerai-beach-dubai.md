@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Atlantis Jumerai Beach - Dubai
-datePublished: '2016-04-02T13:20:17.047Z'
-dateModified: '2016-04-02T05:33:53.696Z'
+datePublished: '2016-04-02T13:21:11.135Z'
+dateModified: '2016-04-02T13:20:25.374Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-02-atlantis-jumerai-beach-dubai.md
