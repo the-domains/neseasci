@@ -1,0 +1,28 @@
+name: neseasci
+favicon: null
+layout_spectrum: 0.7821894446387887
+typography_spectrum: 0.8397873772773892
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4975351884495467
+  lightness: 0.6622589330654591
+  saturation: 0.4449554649181664
+  rhythmicContrast: 0.5637927050702274
+purpose: []
